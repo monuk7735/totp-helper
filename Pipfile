@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pyotp = "==2.9.0"
+pillow = "==10.4.0"
+pynput = "==1.7.7"
+pyautogui = "==0.9.54"
+
+[dev-packages]
+
+[requires]
+python_version = "3.14"
